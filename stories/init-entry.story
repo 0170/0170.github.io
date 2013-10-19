@@ -1,0 +1,1 @@
+This blog is just a caprice. But I also wish to learn something from it. For example, express my self more clearly. I can't believe that I've erased so much until now. Do others spend so much time on their blogs? Next time I won't control the flow. It will be deplorable. 
