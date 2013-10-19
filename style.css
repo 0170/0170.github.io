@@ -1,3 +1,7 @@
+::selection {
+  background: #F73E3E;
+}
+
 h1 {
   font-family: 'Patua One', normal;
   font-size: 2em;
@@ -5,5 +9,20 @@ h1 {
 
 p {
   font-family: 'Dosis', normal;
-  font-size: 1.4em;
+  font-size: 1em;
+}
+
+a {
+  font-family: 'Dosis', normal;
+  font-size: 1em;
+  text-decoration: none;
+}
+
+a:link {
+  background: #F73E3E;
+  color: #292C37;
+}
+
+a:visited {
+  color: #9F111B;
 }
